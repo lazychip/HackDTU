@@ -1,0 +1,16 @@
+.column {
+    border-right: 1px solid black;
+}
+.reminder-list {
+    margin-top: 30px;
+}
+.reminder-list li {
+    list-style: disc;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.insider {
+    margin-top: 20px;
+    margin-left: 5px;
+}
